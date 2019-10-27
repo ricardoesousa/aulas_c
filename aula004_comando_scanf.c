@@ -13,7 +13,7 @@ int main(){
     printf("\nDigite dois números: \n\n");
     scanf("%d%f",&nro,&n);
     printf("\nOs números são: %d e %f\n\n", nro, n);
+    
     system("pause");
-
-return 0;
+    return 0;
 }

@@ -13,7 +13,7 @@ int main(){
     a = b = c = 10; //pode-se atribuir valores de uma variável para outra como se fosse um efeito dominó
      
     printf("\nOs valores são:\n\n%d\n%d\n%d\n%d\n%d\n\n", x,y,a,b,c);
+    
     system("pause");
-
-return 0;
+    return 0;
 }
